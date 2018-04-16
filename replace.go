@@ -9,7 +9,6 @@ func init() {
 	someVar := "abc"
 	strings.Index(someVar, "b")
 
-
 	strings.IndexByte("abc", 'b')
 	strings.IndexByte(someVar, 'b')
 
